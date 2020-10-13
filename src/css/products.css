@@ -1,0 +1,19 @@
+.guide {
+    font-size: large;
+    font-weight: bold;
+    text-align: center;
+    padding: 10px;
+}
+
+.item-display {
+    display: inline-block;
+    vertical-align: middle;
+    width: 250px;
+    border-color: grey;
+    border-width: thick;
+    margin: 10px 1%;
+}
+
+.items-tab {
+    text-align: center;
+}

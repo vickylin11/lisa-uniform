@@ -1,0 +1,55 @@
+nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    min-height: 10vh;
+    background: royalblue;
+    color: white;
+}
+
+.nav-links {
+    width: 60%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+}
+
+.name {
+    font-family: Apple Chancery;
+    color: dodgerblue;
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+.logo {
+    width: 90px;
+    height: 100px;
+    text-align: center;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    margin: auto;
+    width: fit-content;
+    padding: 10px;
+}
+
+.nav-button {
+    margin-left: 20%;
+    padding: 5px;
+    padding: 20px;
+}
+
+.nav-item {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
+    font-size: large;
+    color: white;
+    float: left;
+    width: fit-content;
+}
